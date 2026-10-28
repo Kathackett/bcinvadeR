@@ -1,4 +1,5 @@
 #' Title Add a column for area to a table with waterbody (lake or river) names
+#testing
 #'
 #' @param dat A table that includes a column of waterbody names
 #' @param waterbody_polygons sf table of waterbody polygons (perhaps filtered for unique names of your dat!)
